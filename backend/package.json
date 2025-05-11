@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-ordering-system-backend",
+  "version": "1.0.0",
+  "description": "Backend for the restaurant ordering system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^3.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "type": "module"
+}
