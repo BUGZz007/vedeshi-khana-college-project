@@ -83,7 +83,7 @@ This module powers the promotional features of **Vedeshi Khana**, allowing admin
 
 - Active promotions are displayed in menu listings and cart summaries.
 - Validation ensures expired or inactive promotions are hidden.
-- Supports multilingual content and price localization (₹ / $).
+- Supports multilingual content and price localization (₹).
 
 👥 Authors
 
